@@ -8,6 +8,9 @@ on:
 jobs:
   package:
     runs-on: alpine/helm
+    permissions:
+      packages: write
+      contents: read
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
