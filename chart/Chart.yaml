@@ -1,0 +1,8 @@
+apiVersion: v2
+name: dummy-chart
+description: Dummy Chart (for POCs)
+type: application
+icon: "https://github.com/lucasepe/dummy-chart/icon.svg"
+
+version: 0.1.0
+appVersion: 0.1.0
