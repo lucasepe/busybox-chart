@@ -4,5 +4,5 @@ description: Dummy Chart (for POCs)
 type: application
 icon: "https://raw.githubusercontent.com/lucasepe/busybox-chart/main/icon.svg"
 
-version: 0.1.0
+version: 0.2.0
 appVersion: 0.1.0
